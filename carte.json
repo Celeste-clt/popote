@@ -1,0 +1,136 @@
+{
+    "restaurant_menu": {
+      "boissons": [
+        {
+          "nom": "Coca-Cola",
+          "prix": 2.5,
+          "description": "Boisson gazeuse rafraîchissante"
+        },
+        {
+          "nom": "Eau minérale",
+          "prix": 1.5,
+          "description": "Eau de source naturelle"
+        },
+        {
+          "nom": "Jus d'orange",
+          "prix": 3,
+          "description": "Jus d'orange fraîchement pressé"
+        },
+        {
+          "nom": "Thé glacé",
+          "prix": 2.8,
+          "description": "Thé glacé avec une touche de citron"
+        },
+        {
+          "nom": "Café",
+          "prix": 2,
+          "description": "Café noir ou avec du lait"
+        },
+        {
+          "nom": "Limonade",
+          "prix": 2.5,
+          "description": "Limonade maison pétillante"
+        },
+        {
+          "nom": "Smoothie aux fruits rouges",
+          "prix": 3.5,
+          "description": "Smoothie frais avec des fruits rouges"
+        },
+        {
+          "nom": "Chocolat chaud",
+          "prix": 2.5,
+          "description": "Chocolat chaud onctueux"
+        }
+      ],
+      "recettes": [
+        {
+          "nom": "Salade César",
+          "prix": 6.5,
+          "description": "Salade avec poulet, parmesan, et croutons",
+          "tupperware": "plastique"
+        },
+        {
+          "nom": "Pâtes bolognaises",
+          "prix": 8,
+          "description": "Pâtes avec sauce bolognaise maison",
+          "tupperware": "verre"
+        },
+        {
+          "nom": "Riz cantonais",
+          "prix": 7,
+          "description": "Riz sauté avec des légumes et du jambon",
+          "tupperware": "bambou"
+        },
+        {
+          "nom": "Quiche lorraine",
+          "prix": 7.5,
+          "description": "Quiche avec lardons et fromage",
+          "tupperware": "plastique"
+        },
+        {
+          "nom": "Poulet curry",
+          "prix": 9,
+          "description": "Poulet au curry avec du riz",
+          "tupperware": "bambou"
+        },
+        {
+          "nom": "Lasagnes végétariennes",
+          "prix": 8.5,
+          "description": "Lasagnes avec légumes et fromage",
+          "tupperware": "verre"
+        },
+        {
+          "nom": "Sushi",
+          "prix": 10,
+          "description": "Assortiment de sushi frais",
+          "tupperware": "plastique"
+        },
+        {
+          "nom": "Bœuf bourguignon",
+          "prix": 11,
+          "description": "Ragoût de bœuf mijoté au vin rouge",
+          "tupperware": "verre"
+        },
+        {
+          "nom": "Couscous",
+          "prix": 9.5,
+          "description": "Couscous avec légumes et viande",
+          "tupperware": "bambou"
+        },
+        {
+          "nom": "Paella",
+          "prix": 10.5,
+          "description": "Paella avec fruits de mer et poulet",
+          "tupperware": "plastique"
+        }
+      ],
+      "couverts": [
+        {
+          "type": "bois",
+          "prix": 0.5,
+          "description": "Couverts écologiques en bois"
+        },
+        {
+          "type": "plastique",
+          "prix": 0.2,
+          "description": "Couverts en plastique jetable"
+        },
+        {
+          "type": "bambou",
+          "prix": 1,
+          "description": "Couverts réutilisables en bambou"
+        },
+        {
+          "type": "inox",
+          "prix": 1.5,
+          "description": "Couverts en acier inoxydable"
+        },
+        {
+          "type": "verre",
+          "prix": 2,
+          "description": "Couverts en verre trempé"
+        }
+      ]
+    }
+  }
+  
